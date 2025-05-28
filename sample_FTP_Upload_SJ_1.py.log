@@ -1,0 +1,760 @@
+﻿[2025-05-08 16:00:52.833] - filelock        - DEBUG    - Attempting to acquire lock 548421201824 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:00:52.836] - filelock        - DEBUG    - Lock 548421201824 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:00:52.837] - root            - INFO     - file lock acquired !
+[2025-05-08 16:01:59.302] - filelock        - DEBUG    - Attempting to acquire lock 548336701344 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:01:59.303] - filelock        - DEBUG    - Lock 548336701344 not acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock, waiting 0.05 seconds ...
+[2025-05-08 16:01:59.354] - filelock        - DEBUG    - Attempting to acquire lock 548336701344 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:01:59.356] - filelock        - DEBUG    - Lock 548336701344 not acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock, waiting 0.05 seconds ...
+[2025-05-08 16:01:59.406] - filelock        - DEBUG    - Attempting to acquire lock 548336701344 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:01:59.407] - filelock        - DEBUG    - Lock 548336701344 not acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock, waiting 0.05 seconds ...
+[2025-05-08 16:01:59.458] - filelock        - DEBUG    - Attempting to acquire lock 548336701344 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:01:59.459] - filelock        - DEBUG    - Lock 548336701344 not acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock, waiting 0.05 seconds ...
+[2025-05-08 16:01:59.509] - filelock        - DEBUG    - Attempting to acquire lock 548336701344 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:01:59.510] - filelock        - DEBUG    - Lock 548336701344 not acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock, waiting 0.05 seconds ...
+[2025-05-08 16:01:59.561] - filelock        - DEBUG    - Attempting to acquire lock 548336701344 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:01:59.562] - filelock        - DEBUG    - Lock 548336701344 not acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock, waiting 0.05 seconds ...
+[2025-05-08 16:01:59.613] - filelock        - DEBUG    - Attempting to acquire lock 548336701344 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:01:59.614] - filelock        - DEBUG    - Lock 548336701344 not acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock, waiting 0.05 seconds ...
+[2025-05-08 16:01:59.664] - filelock        - DEBUG    - Attempting to acquire lock 548336701344 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:01:59.665] - filelock        - DEBUG    - Lock 548336701344 not acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock, waiting 0.05 seconds ...
+[2025-05-08 16:01:59.715] - filelock        - DEBUG    - Attempting to acquire lock 548336701344 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:01:59.716] - filelock        - DEBUG    - Lock 548336701344 not acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock, waiting 0.05 seconds ...
+[2025-05-08 16:01:59.766] - filelock        - DEBUG    - Attempting to acquire lock 548336701344 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:01:59.767] - filelock        - DEBUG    - Lock 548336701344 not acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock, waiting 0.05 seconds ...
+[2025-05-08 16:01:59.818] - filelock        - DEBUG    - Attempting to acquire lock 548336701344 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:01:59.819] - filelock        - DEBUG    - Lock 548336701344 not acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock, waiting 0.05 seconds ...
+[2025-05-08 16:01:59.869] - filelock        - DEBUG    - Attempting to acquire lock 548336701344 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:01:59.870] - filelock        - DEBUG    - Lock 548336701344 not acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock, waiting 0.05 seconds ...
+[2025-05-08 16:01:59.920] - filelock        - DEBUG    - Attempting to acquire lock 548336701344 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:01:59.921] - filelock        - DEBUG    - Lock 548336701344 not acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock, waiting 0.05 seconds ...
+[2025-05-08 16:01:59.971] - filelock        - DEBUG    - Attempting to acquire lock 548336701344 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:01:59.972] - filelock        - DEBUG    - Lock 548336701344 not acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock, waiting 0.05 seconds ...
+[2025-05-08 16:02:00.023] - filelock        - DEBUG    - Attempting to acquire lock 548336701344 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:02:00.023] - filelock        - DEBUG    - Lock 548336701344 not acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock, waiting 0.05 seconds ...
+[2025-05-08 16:02:00.074] - filelock        - DEBUG    - Attempting to acquire lock 548336701344 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:02:00.075] - filelock        - DEBUG    - Lock 548336701344 not acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock, waiting 0.05 seconds ...
+[2025-05-08 16:02:00.125] - filelock        - DEBUG    - Attempting to acquire lock 548336701344 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:02:00.126] - filelock        - DEBUG    - Lock 548336701344 not acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock, waiting 0.05 seconds ...
+[2025-05-08 16:02:00.176] - filelock        - DEBUG    - Attempting to acquire lock 548336701344 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:02:00.177] - filelock        - DEBUG    - Lock 548336701344 not acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock, waiting 0.05 seconds ...
+[2025-05-08 16:02:00.227] - filelock        - DEBUG    - Attempting to acquire lock 548336701344 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:02:00.228] - filelock        - DEBUG    - Lock 548336701344 not acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock, waiting 0.05 seconds ...
+[2025-05-08 16:02:00.278] - filelock        - DEBUG    - Attempting to acquire lock 548336701344 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:02:00.279] - filelock        - DEBUG    - Lock 548336701344 not acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock, waiting 0.05 seconds ...
+[2025-05-08 16:02:00.330] - filelock        - DEBUG    - Attempting to acquire lock 548336701344 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:02:00.330] - filelock        - DEBUG    - Timeout on acquiring lock 548336701344 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:02:00.331] - root            - INFO     - 에러발생[__main__] : The file lock '/home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock' could not be acquired.
+Traceback (most recent call last):
+  File "/home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py", line 168, in <module>
+    with LOCK.acquire(timeout=1) :
+filelock._error.Timeout: The file lock '/home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock' could not be acquired.
+
+[2025-05-08 16:03:14.493] - filelock        - DEBUG    - Attempting to acquire lock 548493946784 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:03:14.495] - filelock        - DEBUG    - Lock 548493946784 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:03:14.496] - root            - INFO     - file lock acquired !
+[2025-05-08 16:05:24.807] - root            - INFO     - FTP close!
+[2025-05-08 16:05:24.807] - root            - INFO     - Please check FTP ID or Password.(0)
+[2025-05-08 16:07:37.927] - root            - INFO     - FTP close!
+[2025-05-08 16:07:37.928] - root            - INFO     - Please check FTP ID or Password.(1)
+[2025-05-08 16:09:51.047] - root            - INFO     - FTP close!
+[2025-05-08 16:09:51.047] - root            - INFO     - Please check FTP ID or Password.(2)
+[2025-05-08 16:12:04.167] - root            - INFO     - FTP close!
+[2025-05-08 16:12:04.168] - root            - INFO     - Please check FTP ID or Password.(3)
+[2025-05-08 16:14:17.287] - root            - INFO     - FTP close!
+[2025-05-08 16:14:17.287] - root            - INFO     - Please check FTP ID or Password.(4)
+[2025-05-08 16:14:20.291] - root            - INFO     - Connection Failed !
+[2025-05-08 16:14:20.292] - filelock        - DEBUG    - Attempting to release lock 548493946784 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:14:20.292] - filelock        - DEBUG    - Lock 548493946784 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:37:36.376] - filelock        - DEBUG    - Attempting to acquire lock 548477296544 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:37:36.377] - filelock        - DEBUG    - Lock 548477296544 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:37:36.378] - root            - INFO     - file lock acquired !
+[2025-05-08 16:39:45.659] - root            - INFO     - FTP close!
+[2025-05-08 16:39:45.660] - root            - INFO     - Please check FTP ID or Password.(0)
+[2025-05-08 16:41:58.779] - root            - INFO     - FTP close!
+[2025-05-08 16:41:58.780] - root            - INFO     - Please check FTP ID or Password.(1)
+[2025-05-08 16:44:11.903] - root            - INFO     - FTP close!
+[2025-05-08 16:44:11.904] - root            - INFO     - Please check FTP ID or Password.(2)
+[2025-05-08 16:46:03.187] - filelock        - DEBUG    - Attempting to acquire lock 547590401952 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:46:03.188] - filelock        - DEBUG    - Lock 547590401952 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:46:03.188] - root            - INFO     - file lock acquired !
+[2025-05-08 16:48:13.567] - root            - INFO     - FTP close!
+[2025-05-08 16:48:13.568] - root            - INFO     - Please check FTP ID or Password.(0)
+[2025-05-08 16:50:26.683] - root            - INFO     - FTP close!
+[2025-05-08 16:50:26.684] - root            - INFO     - Please check FTP ID or Password.(1)
+[2025-05-08 16:50:29.688] - root            - INFO     - FTP close!
+[2025-05-08 16:50:29.688] - root            - INFO     - Please check FTP ID or Password.(2)
+[2025-05-08 16:50:32.692] - root            - INFO     - FTP close!
+[2025-05-08 16:50:32.693] - root            - INFO     - Please check FTP ID or Password.(3)
+[2025-05-08 16:50:35.696] - root            - INFO     - FTP close!
+[2025-05-08 16:50:35.697] - root            - INFO     - Please check FTP ID or Password.(4)
+[2025-05-08 16:50:38.700] - root            - INFO     - Connection Failed !
+[2025-05-08 16:50:38.701] - filelock        - DEBUG    - Attempting to release lock 547590401952 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:50:38.702] - filelock        - DEBUG    - Lock 547590401952 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:53:07.249] - filelock        - DEBUG    - Attempting to acquire lock 548114730912 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:53:07.251] - filelock        - DEBUG    - Lock 548114730912 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:53:07.252] - root            - INFO     - file lock acquired !
+[2025-05-08 16:53:07.260] - root            - INFO     - FTP close!
+[2025-05-08 16:53:07.261] - root            - INFO     - Please check FTP ID or Password.(0)
+[2025-05-08 16:53:10.266] - root            - INFO     - FTP close!
+[2025-05-08 16:53:10.267] - root            - INFO     - Please check FTP ID or Password.(1)
+[2025-05-08 16:53:13.272] - root            - INFO     - FTP close!
+[2025-05-08 16:53:13.273] - root            - INFO     - Please check FTP ID or Password.(2)
+[2025-05-08 16:53:16.277] - root            - INFO     - FTP close!
+[2025-05-08 16:53:16.278] - root            - INFO     - Please check FTP ID or Password.(3)
+[2025-05-08 16:53:19.282] - root            - INFO     - FTP close!
+[2025-05-08 16:53:19.283] - root            - INFO     - Please check FTP ID or Password.(4)
+[2025-05-08 16:53:22.286] - root            - INFO     - Connection Failed !
+[2025-05-08 16:53:22.287] - filelock        - DEBUG    - Attempting to release lock 548114730912 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:53:22.288] - filelock        - DEBUG    - Lock 548114730912 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:53:55.753] - filelock        - DEBUG    - Attempting to acquire lock 547847520160 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:53:55.763] - filelock        - DEBUG    - Lock 547847520160 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:53:55.764] - root            - INFO     - file lock acquired !
+[2025-05-08 16:53:55.780] - root            - INFO     - Connection Successed !
+[2025-05-08 16:53:55.781] - root            - INFO     - Start, End : [2025-05-08 15:00:00, 2025-05-08 16:00:00)
+[2025-05-08 16:53:55.930] - filelock        - DEBUG    - Attempting to release lock 547847520160 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:53:55.930] - filelock        - DEBUG    - Lock 547847520160 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:55:37.936] - filelock        - DEBUG    - Attempting to acquire lock 547905912736 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:55:37.938] - filelock        - DEBUG    - Lock 547905912736 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:55:37.938] - root            - INFO     - file lock acquired !
+[2025-05-08 16:55:37.954] - root            - INFO     - Connection Successed !
+[2025-05-08 16:55:37.955] - root            - INFO     - Start, End : [2025-05-08 15:00:00, 2025-05-08 16:00:00)
+[2025-05-08 16:55:38.001] - filelock        - DEBUG    - Attempting to release lock 547905912736 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 16:55:38.001] - filelock        - DEBUG    - Lock 547905912736 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 17:10:02.940] - filelock        - DEBUG    - Attempting to acquire lock 548327944096 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 17:10:02.942] - filelock        - DEBUG    - Lock 548327944096 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 17:10:02.943] - root            - INFO     - file lock acquired !
+[2025-05-08 17:10:02.965] - root            - INFO     - Connection Successed !
+[2025-05-08 17:10:02.966] - root            - INFO     - Start, End : [2025-05-08 16:00:00, 2025-05-08 17:00:00)
+[2025-05-08 17:10:03.012] - filelock        - DEBUG    - Attempting to release lock 548327944096 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 17:10:03.013] - filelock        - DEBUG    - Lock 548327944096 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 17:11:08.165] - filelock        - DEBUG    - Attempting to acquire lock 547718553504 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 17:11:08.166] - filelock        - DEBUG    - Lock 547718553504 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 17:11:08.168] - root            - INFO     - file lock acquired !
+[2025-05-08 17:11:08.184] - root            - INFO     - Connection Successed !
+[2025-05-08 17:11:08.185] - root            - INFO     - Start, End : [2025-05-08 16:00:00, 2025-05-08 17:00:00)
+[2025-05-08 17:11:08.224] - filelock        - DEBUG    - Attempting to release lock 547718553504 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 17:11:08.225] - filelock        - DEBUG    - Lock 547718553504 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 17:11:59.233] - filelock        - DEBUG    - Attempting to acquire lock 547778457504 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 17:11:59.236] - filelock        - DEBUG    - Lock 547778457504 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 17:11:59.236] - root            - INFO     - file lock acquired !
+[2025-05-08 17:11:59.252] - root            - INFO     - Connection Successed !
+[2025-05-08 17:11:59.253] - root            - INFO     - Start, End : [2025-05-08 16:00:00, 2025-05-08 17:00:00)
+[2025-05-08 17:11:59.301] - filelock        - DEBUG    - Attempting to release lock 547778457504 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 17:11:59.302] - filelock        - DEBUG    - Lock 547778457504 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 17:14:25.142] - filelock        - DEBUG    - Attempting to acquire lock 548098334576 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 17:14:25.143] - filelock        - DEBUG    - Lock 548098334576 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 17:14:25.143] - root            - INFO     - file lock acquired !
+[2025-05-08 17:14:25.159] - root            - INFO     - Connection Successed !
+[2025-05-08 17:14:25.160] - root            - INFO     - Start, End : [2025-05-08 16:00:00, 2025-05-08 17:00:00)
+[2025-05-08 17:14:25.241] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250502_20.csv , Upload OK !
+[2025-05-08 17:14:25.262] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250501_20.csv , Upload OK !
+[2025-05-08 17:14:25.286] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250503_21.csv , Upload OK !
+[2025-05-08 17:14:25.308] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250506_23.csv , Upload OK !
+[2025-05-08 17:14:25.329] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250504_10.csv , Upload OK !
+[2025-05-08 17:14:25.352] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250503_10.csv , Upload OK !
+[2025-05-08 17:14:25.372] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250502_19.csv , Upload OK !
+[2025-05-08 17:14:25.434] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250505_05.csv , Upload OK !
+[2025-05-08 17:14:25.454] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250506_03.csv , Upload OK !
+[2025-05-08 17:14:25.473] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250506_11.csv , Upload OK !
+[2025-05-08 17:14:25.509] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250506_10.csv , Upload OK !
+[2025-05-08 17:14:25.553] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250501_17.csv , Upload OK !
+[2025-05-08 17:14:25.575] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250504_22.csv , Upload OK !
+[2025-05-08 17:14:25.600] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250502_09.csv , Upload OK !
+[2025-05-08 17:14:25.620] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250505_03.csv , Upload OK !
+[2025-05-08 17:14:25.647] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250506_20.csv , Upload OK !
+[2025-05-08 17:14:25.676] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250503_00.csv , Upload OK !
+[2025-05-08 17:14:25.696] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250505_14.csv , Upload OK !
+[2025-05-08 17:14:25.732] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250506_00.csv , Upload OK !
+[2025-05-08 17:14:25.758] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250503_18.csv , Upload OK !
+[2025-05-08 17:14:25.781] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250502_01.csv , Upload OK !
+[2025-05-08 17:14:25.823] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250504_07.csv , Upload OK !
+[2025-05-08 17:14:25.849] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250501_06.csv , Upload OK !
+[2025-05-08 17:14:25.876] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250505_18.csv , Upload OK !
+[2025-05-08 17:14:25.904] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250504_05.csv , Upload OK !
+[2025-05-08 17:14:25.925] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250501_03.csv , Upload OK !
+[2025-05-08 17:14:25.954] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250506_14.csv , Upload OK !
+[2025-05-08 17:14:25.985] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250505_20.csv , Upload OK !
+[2025-05-08 17:14:26.019] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250503_14.csv , Upload OK !
+[2025-05-08 17:14:26.060] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250503_04.csv , Upload OK !
+[2025-05-08 17:14:26.081] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250501_16.csv , Upload OK !
+[2025-05-08 17:14:26.103] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250502_08.csv , Upload OK !
+[2025-05-08 17:14:26.124] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250505_19.csv , Upload OK !
+[2025-05-08 17:14:26.144] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250503_13.csv , Upload OK !
+[2025-05-08 17:14:26.174] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250506_22.csv , Upload OK !
+[2025-05-08 17:14:26.196] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250504_12.csv , Upload OK !
+[2025-05-08 17:14:26.217] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250507_06.csv , Upload OK !
+[2025-05-08 17:14:26.253] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250504_13.csv , Upload OK !
+[2025-05-08 17:14:26.286] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250508_160000.csv , Upload OK !
+[2025-05-08 17:14:26.310] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250502_22.csv , Upload OK !
+[2025-05-08 17:14:26.330] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250504_08.csv , Upload OK !
+[2025-05-08 17:14:26.350] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250502_21.csv , Upload OK !
+[2025-05-08 17:14:26.379] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250502_04.csv , Upload OK !
+[2025-05-08 17:14:26.402] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250504_21.csv , Upload OK !
+[2025-05-08 17:14:26.422] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250502_17.csv , Upload OK !
+[2025-05-08 17:14:26.442] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250501_04.csv , Upload OK !
+[2025-05-08 17:14:26.465] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250508_14.csv , Upload OK !
+[2025-05-08 17:14:26.485] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250504_15.csv , Upload OK !
+[2025-05-08 17:14:26.505] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250507_10.csv , Upload OK !
+[2025-05-08 17:14:26.526] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250504_18.csv , Upload OK !
+[2025-05-08 17:14:26.546] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250506_07.csv , Upload OK !
+[2025-05-08 17:14:26.568] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250505_12.csv , Upload OK !
+[2025-05-08 17:14:26.592] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250502_06.csv , Upload OK !
+[2025-05-08 17:14:26.615] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250501_19.csv , Upload OK !
+[2025-05-08 17:14:26.748] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250507_07.csv , Upload OK !
+[2025-05-08 17:14:26.770] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250501_23.csv , Upload OK !
+[2025-05-08 17:14:26.794] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250508_13.csv , Upload OK !
+[2025-05-08 17:14:26.818] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250504_19.csv , Upload OK !
+[2025-05-08 17:14:26.843] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250507_23.csv , Upload OK !
+[2025-05-08 17:14:26.871] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250508_10.csv , Upload OK !
+[2025-05-08 17:14:26.894] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250503_07.csv , Upload OK !
+[2025-05-08 17:14:26.914] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250501_08.csv , Upload OK !
+[2025-05-08 17:14:26.937] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250506_05.csv , Upload OK !
+[2025-05-08 17:14:26.964] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250508_11.csv , Upload OK !
+[2025-05-08 17:14:26.988] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250508_08.csv , Upload OK !
+[2025-05-08 17:14:27.015] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250505_01.csv , Upload OK !
+[2025-05-08 17:14:27.037] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250505_00.csv , Upload OK !
+[2025-05-08 17:14:27.071] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250504_04.csv , Upload OK !
+[2025-05-08 17:14:27.093] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250504_02.csv , Upload OK !
+[2025-05-08 17:14:27.114] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250502_10.csv , Upload OK !
+[2025-05-08 17:14:27.140] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250504_01.csv , Upload OK !
+[2025-05-08 17:14:27.161] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250506_16.csv , Upload OK !
+[2025-05-08 17:14:27.187] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250501_15.csv , Upload OK !
+[2025-05-08 17:14:27.211] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250508_01.csv , Upload OK !
+[2025-05-08 17:14:27.234] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250505_16.csv , Upload OK !
+[2025-05-08 17:14:27.260] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250508_07.csv , Upload OK !
+[2025-05-08 17:14:27.290] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250505_07.csv , Upload OK !
+[2025-05-08 17:14:27.315] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250502_15.csv , Upload OK !
+[2025-05-08 17:14:27.335] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250502_11.csv , Upload OK !
+[2025-05-08 17:14:27.372] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250507_16.csv , Upload OK !
+[2025-05-08 17:14:27.419] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250502_02.csv , Upload OK !
+[2025-05-08 17:14:27.453] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250507_00.csv , Upload OK !
+[2025-05-08 17:14:27.480] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250506_01.csv , Upload OK !
+[2025-05-08 17:14:27.520] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250507_17.csv , Upload OK !
+[2025-05-08 17:14:27.546] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250504_09.csv , Upload OK !
+[2025-05-08 17:14:27.584] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250504_23.csv , Upload OK !
+[2025-05-08 17:14:27.612] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250504_16.csv , Upload OK !
+[2025-05-08 17:14:27.642] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250504_11.csv , Upload OK !
+[2025-05-08 17:14:27.663] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250430_20.csv , Upload OK !
+[2025-05-08 17:14:27.684] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250501_22.csv , Upload OK !
+[2025-05-08 17:14:27.741] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250507_11.csv , Upload OK !
+[2025-05-08 17:14:27.762] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250504_06.csv , Upload OK !
+[2025-05-08 17:14:27.788] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250505_10.csv , Upload OK !
+[2025-05-08 17:14:27.822] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250506_09.csv , Upload OK !
+[2025-05-08 17:14:27.847] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250503_12.csv , Upload OK !
+[2025-05-08 17:14:27.868] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250506_13.csv , Upload OK !
+[2025-05-08 17:14:27.891] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250506_21.csv , Upload OK !
+[2025-05-08 17:14:27.914] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250505_11.csv , Upload OK !
+[2025-05-08 17:14:27.935] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250501_18.csv , Upload OK !
+[2025-05-08 17:14:27.955] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250501_02.csv , Upload OK !
+[2025-05-08 17:14:27.976] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250503_06.csv , Upload OK !
+[2025-05-08 17:14:28.001] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250501_01.csv , Upload OK !
+[2025-05-08 17:14:28.023] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250506_04.csv , Upload OK !
+[2025-05-08 17:14:28.059] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250508_09.csv , Upload OK !
+[2025-05-08 17:14:28.099] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250507_20.csv , Upload OK !
+[2025-05-08 17:14:28.121] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250505_13.csv , Upload OK !
+[2025-05-08 17:14:28.177] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250503_23.csv , Upload OK !
+[2025-05-08 17:14:28.209] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250501_07.csv , Upload OK !
+[2025-05-08 17:14:28.256] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250502_13.csv , Upload OK !
+[2025-05-08 17:14:28.323] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250504_17.csv , Upload OK !
+[2025-05-08 17:14:28.343] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250501_11.csv , Upload OK !
+[2025-05-08 17:14:28.364] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250503_15.csv , Upload OK !
+[2025-05-08 17:14:28.381] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250430_15.csv , Upload OK !
+[2025-05-08 17:14:28.425] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250501_21.csv , Upload OK !
+[2025-05-08 17:14:28.477] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250501_10.csv , Upload OK !
+[2025-05-08 17:14:28.501] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250505_09.csv , Upload OK !
+[2025-05-08 17:14:28.519] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250501_14.csv , Upload OK !
+[2025-05-08 17:14:28.550] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250508_06.csv , Upload OK !
+[2025-05-08 17:14:28.572] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250508_05.csv , Upload OK !
+[2025-05-08 17:14:28.612] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250507_14.csv , Upload OK !
+[2025-05-08 17:14:28.674] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250503_16.csv , Upload OK !
+[2025-05-08 17:14:28.734] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250507_01.csv , Upload OK !
+[2025-05-08 17:14:28.783] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250502_18.csv , Upload OK !
+[2025-05-08 17:14:28.816] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250506_12.csv , Upload OK !
+[2025-05-08 17:14:28.839] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250507_12.csv , Upload OK !
+[2025-05-08 17:14:28.860] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250507_02.csv , Upload OK !
+[2025-05-08 17:14:28.881] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250503_22.csv , Upload OK !
+[2025-05-08 17:14:28.910] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250503_02.csv , Upload OK !
+[2025-05-08 17:14:28.931] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250506_02.csv , Upload OK !
+[2025-05-08 17:14:28.949] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250504_20.csv , Upload OK !
+[2025-05-08 17:14:28.972] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250503_03.csv , Upload OK !
+[2025-05-08 17:14:29.013] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250502_12.csv , Upload OK !
+[2025-05-08 17:14:29.046] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250507_04.csv , Upload OK !
+[2025-05-08 17:14:29.066] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250501_09.csv , Upload OK !
+[2025-05-08 17:14:29.091] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250501_00.csv , Upload OK !
+[2025-05-08 17:14:29.133] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250503_19.csv , Upload OK !
+[2025-05-08 17:14:29.155] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250507_13.csv , Upload OK !
+[2025-05-08 17:14:29.206] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250507_22.csv , Upload OK !
+[2025-05-08 17:14:29.237] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250507_08.csv , Upload OK !
+[2025-05-08 17:14:29.274] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250502_16.csv , Upload OK !
+[2025-05-08 17:14:29.320] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250502_23.csv , Upload OK !
+[2025-05-08 17:14:29.346] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250507_15.csv , Upload OK !
+[2025-05-08 17:14:29.384] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250508_04.csv , Upload OK !
+[2025-05-08 17:14:29.416] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250505_08.csv , Upload OK !
+[2025-05-08 17:14:29.446] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250504_14.csv , Upload OK !
+[2025-05-08 17:14:29.500] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250504_03.csv , Upload OK !
+[2025-05-08 17:14:29.538] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250501_12.csv , Upload OK !
+[2025-05-08 17:14:29.558] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250503_20.csv , Upload OK !
+[2025-05-08 17:14:29.582] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250507_03.csv , Upload OK !
+[2025-05-08 17:14:29.684] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250507_18.csv , Upload OK !
+[2025-05-08 17:14:29.704] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250430_17.csv , Upload OK !
+[2025-05-08 17:14:29.730] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250504_00.csv , Upload OK !
+[2025-05-08 17:14:29.750] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250503_09.csv , Upload OK !
+[2025-05-08 17:14:29.771] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250507_05.csv , Upload OK !
+[2025-05-08 17:14:29.806] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250508_02.csv , Upload OK !
+[2025-05-08 17:14:29.842] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250508_15.csv , Upload OK !
+[2025-05-08 17:14:29.862] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250506_18.csv , Upload OK !
+[2025-05-08 17:14:29.883] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250505_21.csv , Upload OK !
+[2025-05-08 17:14:29.905] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250505_23.csv , Upload OK !
+[2025-05-08 17:14:29.926] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250502_05.csv , Upload OK !
+[2025-05-08 17:14:29.947] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250502_14.csv , Upload OK !
+[2025-05-08 17:14:29.969] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250505_06.csv , Upload OK !
+[2025-05-08 17:14:29.996] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250430_16.csv , Upload OK !
+[2025-05-08 17:14:30.023] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250501_05.csv , Upload OK !
+[2025-05-08 17:14:30.046] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250506_17.csv , Upload OK !
+[2025-05-08 17:14:30.075] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250507_19.csv , Upload OK !
+[2025-05-08 17:14:30.114] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250507_09.csv , Upload OK !
+[2025-05-08 17:14:30.135] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250502_07.csv , Upload OK !
+[2025-05-08 17:14:30.164] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250503_05.csv , Upload OK !
+[2025-05-08 17:14:30.188] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250505_04.csv , Upload OK !
+[2025-05-08 17:14:30.217] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250503_01.csv , Upload OK !
+[2025-05-08 17:14:30.243] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250503_11.csv , Upload OK !
+[2025-05-08 17:14:30.264] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250430_21.csv , Upload OK !
+[2025-05-08 17:14:30.288] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250430_22.csv , Upload OK !
+[2025-05-08 17:14:30.325] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250502_03.csv , Upload OK !
+[2025-05-08 17:14:30.350] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250430_19.csv , Upload OK !
+[2025-05-08 17:14:30.377] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250508_03.csv , Upload OK !
+[2025-05-08 17:14:30.399] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250505_02.csv , Upload OK !
+[2025-05-08 17:14:30.445] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250506_06.csv , Upload OK !
+[2025-05-08 17:14:30.466] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250506_15.csv , Upload OK !
+[2025-05-08 17:14:30.487] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250505_17.csv , Upload OK !
+[2025-05-08 17:14:30.512] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250502_00.csv , Upload OK !
+[2025-05-08 17:14:30.532] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250505_22.csv , Upload OK !
+[2025-05-08 17:14:30.571] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250430_23.csv , Upload OK !
+[2025-05-08 17:14:30.704] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250508_00.csv , Upload OK !
+[2025-05-08 17:14:30.753] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250430_18.csv , Upload OK !
+[2025-05-08 17:14:30.778] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250507_21.csv , Upload OK !
+[2025-05-08 17:14:30.799] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250501_13.csv , Upload OK !
+[2025-05-08 17:14:30.821] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250505_15.csv , Upload OK !
+[2025-05-08 17:14:30.843] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250506_19.csv , Upload OK !
+[2025-05-08 17:14:30.868] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250503_08.csv , Upload OK !
+[2025-05-08 17:14:30.893] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250503_17.csv , Upload OK !
+[2025-05-08 17:14:30.914] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250506_08.csv , Upload OK !
+[2025-05-08 17:14:30.942] - root            - INFO     - Remote : /FTP/A3TEST/, Local : /home/pi/sooje_practice/adc_log_20250508_12.csv , Upload OK !
+[2025-05-08 17:14:30.945] - filelock        - DEBUG    - Attempting to release lock 548098334576 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-08 17:14:30.945] - filelock        - DEBUG    - Lock 548098334576 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:36:01.942] - filelock        - DEBUG    - Attempting to acquire lock 548493746080 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:36:01.945] - filelock        - DEBUG    - Lock 548493746080 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:36:01.945] - root            - INFO     - file lock acquired !
+[2025-05-09 10:36:01.976] - root            - INFO     - Connection Successed !
+[2025-05-09 10:36:01.977] - root            - INFO     - Start, End : [2025-05-09 09:00:00, 2025-05-09 10:00:00)
+[2025-05-09 10:36:02.045] - filelock        - DEBUG    - Attempting to release lock 548493746080 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:36:02.045] - filelock        - DEBUG    - Lock 548493746080 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:36:02.046] - root            - INFO     - 에러발생[__main__] : 550 Invalid file name or path
+Traceback (most recent call last):
+  File "/home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py", line 194, in <module>
+    CheckCSVFiles('|'.join(v_include_ext));
+ftplib.error_perm: 550 Invalid file name or path
+
+[2025-05-09 10:36:34.616] - filelock        - DEBUG    - Attempting to acquire lock 547655843744 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:36:34.617] - filelock        - DEBUG    - Lock 547655843744 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:36:34.618] - root            - INFO     - file lock acquired !
+[2025-05-09 10:36:34.638] - root            - INFO     - Connection Successed !
+[2025-05-09 10:36:34.639] - root            - INFO     - Start, End : [2025-05-09 09:00:00, 2025-05-09 10:00:00)
+[2025-05-09 10:36:34.694] - filelock        - DEBUG    - Attempting to release lock 547655843744 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:36:34.695] - filelock        - DEBUG    - Lock 547655843744 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:36:34.697] - root            - INFO     - 에러발생[__main__] : 550 Invalid file name or path
+Traceback (most recent call last):
+  File "/home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py", line 194, in <module>
+    CheckCSVFiles('|'.join(v_include_ext));
+ftplib.error_perm: 550 Invalid file name or path
+
+[2025-05-09 10:36:38.230] - filelock        - DEBUG    - Attempting to acquire lock 548508938144 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:36:38.231] - filelock        - DEBUG    - Lock 548508938144 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:36:38.232] - root            - INFO     - file lock acquired !
+[2025-05-09 10:36:38.252] - root            - INFO     - Connection Successed !
+[2025-05-09 10:36:38.253] - root            - INFO     - Start, End : [2025-05-09 09:00:00, 2025-05-09 10:00:00)
+[2025-05-09 10:36:38.309] - filelock        - DEBUG    - Attempting to release lock 548508938144 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:36:38.309] - filelock        - DEBUG    - Lock 548508938144 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:36:38.311] - root            - INFO     - 에러발생[__main__] : 550 Invalid file name or path
+Traceback (most recent call last):
+  File "/home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py", line 194, in <module>
+    CheckCSVFiles('|'.join(v_include_ext));
+ftplib.error_perm: 550 Invalid file name or path
+
+[2025-05-09 10:36:40.351] - filelock        - DEBUG    - Attempting to acquire lock 548095840160 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:36:40.352] - filelock        - DEBUG    - Lock 548095840160 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:36:40.353] - root            - INFO     - file lock acquired !
+[2025-05-09 10:36:40.370] - root            - INFO     - Connection Successed !
+[2025-05-09 10:36:40.371] - root            - INFO     - Start, End : [2025-05-09 09:00:00, 2025-05-09 10:00:00)
+[2025-05-09 10:36:40.435] - filelock        - DEBUG    - Attempting to release lock 548095840160 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:36:40.436] - filelock        - DEBUG    - Lock 548095840160 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:36:40.438] - root            - INFO     - 에러발생[__main__] : 550 Invalid file name or path
+Traceback (most recent call last):
+  File "/home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py", line 194, in <module>
+    CheckCSVFiles('|'.join(v_include_ext));
+ftplib.error_perm: 550 Invalid file name or path
+
+[2025-05-09 10:37:01.197] - filelock        - DEBUG    - Attempting to acquire lock 548309995424 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:37:01.198] - filelock        - DEBUG    - Lock 548309995424 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:37:01.200] - root            - INFO     - file lock acquired !
+[2025-05-09 10:37:01.216] - root            - INFO     - Connection Successed !
+[2025-05-09 10:37:01.217] - root            - INFO     - Start, End : [2025-05-09 09:00:00, 2025-05-09 10:00:00)
+[2025-05-09 10:37:01.280] - filelock        - DEBUG    - Attempting to release lock 548309995424 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:37:01.280] - filelock        - DEBUG    - Lock 548309995424 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:37:01.281] - root            - INFO     - 에러발생[__main__] : 550 Invalid file name or path
+Traceback (most recent call last):
+  File "/home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py", line 194, in <module>
+    CheckCSVFiles('|'.join(v_include_ext));
+ftplib.error_perm: 550 Invalid file name or path
+
+[2025-05-09 10:42:45.078] - filelock        - DEBUG    - Attempting to acquire lock 548356464496 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:42:45.080] - filelock        - DEBUG    - Lock 548356464496 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:42:45.081] - root            - INFO     - file lock acquired !
+[2025-05-09 10:42:45.108] - root            - INFO     - Connection Successed !
+[2025-05-09 10:42:45.109] - root            - INFO     - Start, End : [2025-05-09 09:00:00, 2025-05-09 10:00:00)
+[2025-05-09 10:42:45.169] - filelock        - DEBUG    - Attempting to release lock 548356464496 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:42:45.170] - filelock        - DEBUG    - Lock 548356464496 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:42:45.172] - root            - INFO     - 에러발생[__main__] : 550 Invalid file name or path
+Traceback (most recent call last):
+  File "/home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py", line 194, in <module>
+    CheckCSVFiles('|'.join(v_include_ext));
+ftplib.error_perm: 550 Invalid file name or path
+
+[2025-05-09 10:43:42.165] - filelock        - DEBUG    - Attempting to acquire lock 548205288752 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:43:42.166] - filelock        - DEBUG    - Lock 548205288752 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:43:42.167] - root            - INFO     - file lock acquired !
+[2025-05-09 10:43:42.188] - root            - INFO     - Connection Successed !
+[2025-05-09 10:43:42.188] - root            - INFO     - Start, End : [2025-05-09 09:00:00, 2025-05-09 10:00:00)
+[2025-05-09 10:43:42.266] - filelock        - DEBUG    - Attempting to release lock 548205288752 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:43:42.266] - filelock        - DEBUG    - Lock 548205288752 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:43:42.267] - root            - INFO     - 에러발생[__main__] : 550 Invalid file name or path
+Traceback (most recent call last):
+  File "/home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py", line 194, in <module>
+    CheckCSVFiles('|'.join(v_include_ext));
+ftplib.error_perm: 550 Invalid file name or path
+
+[2025-05-09 10:44:03.362] - filelock        - DEBUG    - Attempting to acquire lock 548322135344 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:44:03.363] - filelock        - DEBUG    - Lock 548322135344 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:44:03.363] - root            - INFO     - file lock acquired !
+[2025-05-09 10:44:03.379] - root            - INFO     - Connection Successed !
+[2025-05-09 10:44:03.380] - root            - INFO     - Start, End : [2025-05-09 09:00:00, 2025-05-09 10:00:00)
+[2025-05-09 10:44:03.449] - filelock        - DEBUG    - Attempting to release lock 548322135344 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:44:03.450] - filelock        - DEBUG    - Lock 548322135344 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:44:03.452] - root            - INFO     - 에러발생[__main__] : 550 Invalid file name or path
+Traceback (most recent call last):
+  File "/home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py", line 194, in <module>
+    CheckCSVFiles('|'.join(v_include_ext));
+ftplib.error_perm: 550 Invalid file name or path
+
+[2025-05-09 10:47:55.811] - filelock        - DEBUG    - Attempting to acquire lock 548605771056 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:47:55.814] - filelock        - DEBUG    - Lock 548605771056 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:47:55.815] - root            - INFO     - file lock acquired !
+[2025-05-09 10:47:55.839] - root            - INFO     - Connection Successed !
+[2025-05-09 10:47:55.839] - root            - INFO     - Start, End : [2025-05-09 09:00:00, 2025-05-09 10:00:00)
+[2025-05-09 10:47:55.918] - filelock        - DEBUG    - Attempting to release lock 548605771056 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:47:55.919] - filelock        - DEBUG    - Lock 548605771056 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:47:55.921] - root            - INFO     - 에러발생[__main__] : 550 Invalid file name or path
+Traceback (most recent call last):
+  File "/home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py", line 195, in <module>
+    CheckCSVFiles('|'.join(v_include_ext));
+ftplib.error_perm: 550 Invalid file name or path
+
+[2025-05-09 10:48:35.709] - filelock        - DEBUG    - Attempting to acquire lock 547722165552 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:48:35.710] - filelock        - DEBUG    - Lock 547722165552 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:48:35.710] - root            - INFO     - file lock acquired !
+[2025-05-09 10:48:35.726] - root            - INFO     - Connection Successed !
+[2025-05-09 10:48:35.726] - root            - INFO     - Start, End : [2025-05-09 09:00:00, 2025-05-09 10:00:00)
+[2025-05-09 10:48:35.790] - filelock        - DEBUG    - Attempting to release lock 547722165552 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:48:35.791] - filelock        - DEBUG    - Lock 547722165552 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:48:35.792] - root            - INFO     - 에러발생[__main__] : 550 Invalid file name or path
+Traceback (most recent call last):
+  File "/home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py", line 195, in <module>
+    CheckCSVFiles('|'.join(v_include_ext));
+ftplib.error_perm: 550 Invalid file name or path
+
+[2025-05-09 10:57:59.705] - filelock        - DEBUG    - Attempting to acquire lock 547780537648 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:57:59.706] - filelock        - DEBUG    - Lock 547780537648 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:57:59.707] - root            - INFO     - file lock acquired !
+[2025-05-09 10:57:59.726] - root            - INFO     - Connection Successed !
+[2025-05-09 10:57:59.727] - root            - INFO     - Start, End : [2025-05-09 09:00:00, 2025-05-09 10:00:00)
+[2025-05-09 10:57:59.799] - filelock        - DEBUG    - Attempting to release lock 547780537648 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 10:57:59.800] - filelock        - DEBUG    - Lock 547780537648 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:05:12.289] - filelock        - DEBUG    - Attempting to acquire lock 548367199536 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:05:12.290] - filelock        - DEBUG    - Lock 548367199536 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:05:12.290] - root            - INFO     - file lock acquired !
+[2025-05-09 11:05:12.309] - root            - INFO     - Connection Successed !
+[2025-05-09 11:05:12.309] - root            - INFO     - Start, End : [2025-05-09 10:00:00, 2025-05-09 11:00:00)
+[2025-05-09 11:05:12.377] - filelock        - DEBUG    - Attempting to release lock 548367199536 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:05:12.377] - filelock        - DEBUG    - Lock 548367199536 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:05:12.378] - root            - INFO     - 에러발생[__main__] : 550 Invalid file name or path
+Traceback (most recent call last):
+  File "/home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py", line 198, in <module>
+    CheckCSVFiles('|'.join(v_include_ext));
+ftplib.error_perm: 550 Invalid file name or path
+
+[2025-05-09 11:05:51.622] - filelock        - DEBUG    - Attempting to acquire lock 547943263536 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:05:51.623] - filelock        - DEBUG    - Lock 547943263536 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:05:51.624] - root            - INFO     - file lock acquired !
+[2025-05-09 11:05:51.647] - root            - INFO     - Connection Successed !
+[2025-05-09 11:05:51.647] - root            - INFO     - Start, End : [2025-05-09 10:00:00, 2025-05-09 11:00:00)
+[2025-05-09 11:05:51.774] - filelock        - DEBUG    - Attempting to release lock 547943263536 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:05:51.774] - filelock        - DEBUG    - Lock 547943263536 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:05:51.775] - root            - INFO     - 에러발생[__main__] : 550 Invalid file name or path
+Traceback (most recent call last):
+  File "/home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py", line 199, in <module>
+    CheckCSVFiles('|'.join(v_include_ext));
+ftplib.error_perm: 550 Invalid file name or path
+
+[2025-05-09 11:06:49.907] - filelock        - DEBUG    - Attempting to acquire lock 548507872560 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:06:49.908] - filelock        - DEBUG    - Lock 548507872560 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:06:49.909] - root            - INFO     - file lock acquired !
+[2025-05-09 11:06:49.927] - root            - INFO     - Connection Successed !
+[2025-05-09 11:06:49.928] - root            - INFO     - Start, End : [2025-05-09 10:00:00, 2025-05-09 11:00:00)
+[2025-05-09 11:06:49.975] - filelock        - DEBUG    - Attempting to release lock 548507872560 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:06:49.976] - filelock        - DEBUG    - Lock 548507872560 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:07:22.126] - filelock        - DEBUG    - Attempting to acquire lock 548290194736 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:07:22.127] - filelock        - DEBUG    - Lock 548290194736 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:07:22.128] - root            - INFO     - file lock acquired !
+[2025-05-09 11:07:22.146] - root            - INFO     - Connection Successed !
+[2025-05-09 11:07:22.147] - root            - INFO     - Start, End : [2025-05-09 10:00:00, 2025-05-09 11:00:00)
+[2025-05-09 11:07:22.192] - filelock        - DEBUG    - Attempting to release lock 548290194736 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:07:22.192] - filelock        - DEBUG    - Lock 548290194736 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:07:57.259] - filelock        - DEBUG    - Attempting to acquire lock 548162002224 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:07:57.260] - filelock        - DEBUG    - Lock 548162002224 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:07:57.260] - root            - INFO     - file lock acquired !
+[2025-05-09 11:07:57.277] - root            - INFO     - Connection Successed !
+[2025-05-09 11:07:57.278] - root            - INFO     - Start, End : [2025-05-09 10:00:00, 2025-05-09 11:00:00)
+[2025-05-09 11:07:57.325] - filelock        - DEBUG    - Attempting to release lock 548162002224 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:07:57.327] - filelock        - DEBUG    - Lock 548162002224 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:08:22.754] - filelock        - DEBUG    - Attempting to acquire lock 548230339888 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:08:22.755] - filelock        - DEBUG    - Lock 548230339888 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:08:22.755] - root            - INFO     - file lock acquired !
+[2025-05-09 11:08:22.821] - root            - INFO     - Connection Successed !
+[2025-05-09 11:08:22.822] - root            - INFO     - Start, End : [2025-05-09 10:00:00, 2025-05-09 11:00:00)
+[2025-05-09 11:08:22.885] - filelock        - DEBUG    - Attempting to release lock 548230339888 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:08:22.885] - filelock        - DEBUG    - Lock 548230339888 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:12:41.985] - filelock        - DEBUG    - Attempting to acquire lock 547683717808 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:12:41.990] - filelock        - DEBUG    - Lock 547683717808 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:12:41.991] - root            - INFO     - file lock acquired !
+[2025-05-09 11:12:42.009] - root            - INFO     - Connection Successed !
+[2025-05-09 11:12:42.010] - root            - INFO     - Start, End : [2025-05-09 10:00:00, 2025-05-09 11:00:00)
+[2025-05-09 11:12:42.059] - filelock        - DEBUG    - Attempting to release lock 547683717808 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:12:42.060] - filelock        - DEBUG    - Lock 547683717808 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:14:30.583] - filelock        - DEBUG    - Attempting to acquire lock 548553837872 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:14:30.584] - filelock        - DEBUG    - Lock 548553837872 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:14:30.585] - root            - INFO     - file lock acquired !
+[2025-05-09 11:14:30.627] - root            - INFO     - Connection Successed !
+[2025-05-09 11:14:30.628] - root            - INFO     - Start, End : [2025-05-09 10:00:00, 2025-05-09 11:00:00)
+[2025-05-09 11:14:30.682] - filelock        - DEBUG    - Attempting to release lock 548553837872 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:14:30.683] - filelock        - DEBUG    - Lock 548553837872 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:26:54.214] - filelock        - DEBUG    - Attempting to acquire lock 547719159088 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:26:54.215] - filelock        - DEBUG    - Lock 547719159088 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:26:54.215] - root            - INFO     - file lock acquired !
+[2025-05-09 11:26:54.232] - root            - INFO     - Connection Successed !
+[2025-05-09 11:26:54.233] - root            - INFO     - Start, End : [2025-05-09 10:00:00, 2025-05-09 11:00:00)
+[2025-05-09 11:26:54.282] - filelock        - DEBUG    - Attempting to release lock 547719159088 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:26:54.282] - filelock        - DEBUG    - Lock 547719159088 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:27:24.865] - filelock        - DEBUG    - Attempting to acquire lock 547610045744 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:27:24.866] - filelock        - DEBUG    - Lock 547610045744 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:27:24.866] - root            - INFO     - file lock acquired !
+[2025-05-09 11:27:24.883] - root            - INFO     - Connection Successed !
+[2025-05-09 11:27:24.884] - root            - INFO     - Start, End : [2025-05-09 10:00:00, 2025-05-09 11:00:00)
+[2025-05-09 11:27:24.935] - filelock        - DEBUG    - Attempting to release lock 547610045744 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:27:24.936] - filelock        - DEBUG    - Lock 547610045744 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:27:38.864] - filelock        - DEBUG    - Attempting to acquire lock 548408515888 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:27:38.865] - filelock        - DEBUG    - Lock 548408515888 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:27:38.866] - root            - INFO     - file lock acquired !
+[2025-05-09 11:27:38.890] - root            - INFO     - Connection Successed !
+[2025-05-09 11:27:38.891] - root            - INFO     - Start, End : [2025-05-09 10:00:00, 2025-05-09 11:00:00)
+[2025-05-09 11:27:38.958] - filelock        - DEBUG    - Attempting to release lock 548408515888 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:27:38.959] - filelock        - DEBUG    - Lock 548408515888 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:28:42.242] - filelock        - DEBUG    - Attempting to acquire lock 548123028784 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:28:42.243] - filelock        - DEBUG    - Lock 548123028784 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:28:42.244] - root            - INFO     - file lock acquired !
+[2025-05-09 11:28:42.273] - root            - INFO     - Connection Successed !
+[2025-05-09 11:28:42.274] - root            - INFO     - Start, End : [2025-05-09 10:00:00, 2025-05-09 11:00:00)
+[2025-05-09 11:28:42.323] - filelock        - DEBUG    - Attempting to release lock 548123028784 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:28:42.324] - filelock        - DEBUG    - Lock 548123028784 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:32:28.364] - filelock        - DEBUG    - Attempting to acquire lock 547848619344 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:32:28.365] - filelock        - DEBUG    - Lock 547848619344 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:32:28.366] - root            - INFO     - file lock acquired !
+[2025-05-09 11:32:31.777] - root            - INFO     - FTP close!
+[2025-05-09 11:32:31.778] - root            - INFO     - Please check FTP ID or Password.(0)
+[2025-05-09 11:32:38.049] - root            - INFO     - FTP close!
+[2025-05-09 11:32:38.050] - root            - INFO     - Please check FTP ID or Password.(1)
+[2025-05-09 11:32:43.962] - root            - INFO     - FTP close!
+[2025-05-09 11:32:43.962] - root            - INFO     - Please check FTP ID or Password.(2)
+[2025-05-09 11:32:50.181] - root            - INFO     - FTP close!
+[2025-05-09 11:32:50.181] - root            - INFO     - Please check FTP ID or Password.(3)
+[2025-05-09 11:32:56.066] - root            - INFO     - FTP close!
+[2025-05-09 11:32:56.067] - root            - INFO     - Please check FTP ID or Password.(4)
+[2025-05-09 11:32:59.071] - root            - INFO     - Connection Failed !
+[2025-05-09 11:32:59.071] - filelock        - DEBUG    - Attempting to release lock 547848619344 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:32:59.072] - filelock        - DEBUG    - Lock 547848619344 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:33:54.885] - filelock        - DEBUG    - Attempting to acquire lock 547826115920 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:33:54.886] - filelock        - DEBUG    - Lock 547826115920 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:33:54.886] - root            - INFO     - file lock acquired !
+[2025-05-09 11:33:58.435] - root            - INFO     - FTP close!
+[2025-05-09 11:33:58.436] - root            - INFO     - Please check FTP ID or Password.(0)
+[2025-05-09 11:34:03.990] - root            - INFO     - FTP close!
+[2025-05-09 11:34:03.991] - root            - INFO     - Please check FTP ID or Password.(1)
+[2025-05-09 11:34:10.526] - root            - INFO     - FTP close!
+[2025-05-09 11:34:10.526] - root            - INFO     - Please check FTP ID or Password.(2)
+[2025-05-09 11:34:16.026] - root            - INFO     - FTP close!
+[2025-05-09 11:34:16.027] - root            - INFO     - Please check FTP ID or Password.(3)
+[2025-05-09 11:34:22.049] - root            - INFO     - FTP close!
+[2025-05-09 11:34:22.050] - root            - INFO     - Please check FTP ID or Password.(4)
+[2025-05-09 11:34:25.051] - root            - INFO     - Connection Failed !
+[2025-05-09 11:34:25.052] - filelock        - DEBUG    - Attempting to release lock 547826115920 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:34:25.052] - filelock        - DEBUG    - Lock 547826115920 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:34:32.705] - filelock        - DEBUG    - Attempting to acquire lock 547715417424 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:34:32.706] - filelock        - DEBUG    - Lock 547715417424 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:34:32.706] - root            - INFO     - file lock acquired !
+[2025-05-09 11:34:35.468] - root            - INFO     - FTP close!
+[2025-05-09 11:34:35.470] - root            - INFO     - Please check FTP ID or Password.(0)
+[2025-05-09 11:34:37.712] - filelock        - DEBUG    - Attempting to release lock 547715417424 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:34:37.713] - filelock        - DEBUG    - Lock 547715417424 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:34:49.688] - filelock        - DEBUG    - Attempting to acquire lock 547926369616 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:34:49.689] - filelock        - DEBUG    - Lock 547926369616 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:34:49.689] - root            - INFO     - file lock acquired !
+[2025-05-09 11:34:52.449] - root            - INFO     - FTP close!
+[2025-05-09 11:34:52.450] - root            - INFO     - Please check FTP ID or Password.(0)
+[2025-05-09 11:34:54.215] - filelock        - DEBUG    - Attempting to release lock 547926369616 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:34:54.215] - filelock        - DEBUG    - Lock 547926369616 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:36:04.182] - filelock        - DEBUG    - Attempting to acquire lock 547833296208 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:36:04.183] - filelock        - DEBUG    - Lock 547833296208 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:36:04.184] - root            - INFO     - file lock acquired !
+[2025-05-09 11:36:07.241] - root            - INFO     - FTP close!
+[2025-05-09 11:36:07.242] - root            - INFO     - Please check FTP ID or Password.(0)
+[2025-05-09 11:36:13.838] - root            - INFO     - FTP close!
+[2025-05-09 11:36:13.838] - root            - INFO     - Please check FTP ID or Password.(1)
+[2025-05-09 11:36:19.880] - root            - INFO     - FTP close!
+[2025-05-09 11:36:19.881] - root            - INFO     - Please check FTP ID or Password.(2)
+[2025-05-09 11:36:26.461] - root            - INFO     - FTP close!
+[2025-05-09 11:36:26.462] - root            - INFO     - Please check FTP ID or Password.(3)
+[2025-05-09 11:36:33.041] - root            - INFO     - FTP close!
+[2025-05-09 11:36:33.042] - root            - INFO     - Please check FTP ID or Password.(4)
+[2025-05-09 11:36:36.045] - root            - INFO     - Connection Failed !
+[2025-05-09 11:36:36.046] - filelock        - DEBUG    - Attempting to release lock 547833296208 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:36:36.046] - filelock        - DEBUG    - Lock 547833296208 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:42:12.131] - filelock        - DEBUG    - Attempting to acquire lock 548547536256 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:42:12.132] - filelock        - DEBUG    - Lock 548547536256 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:42:12.133] - root            - INFO     - file lock acquired !
+[2025-05-09 11:42:15.374] - root            - INFO     - FTP close!
+[2025-05-09 11:42:15.375] - root            - INFO     - Please check FTP ID or Password.(0)
+[2025-05-09 11:42:21.498] - root            - INFO     - FTP close!
+[2025-05-09 11:42:21.498] - root            - INFO     - Please check FTP ID or Password.(1)
+[2025-05-09 11:42:28.126] - root            - INFO     - FTP close!
+[2025-05-09 11:42:28.126] - root            - INFO     - Please check FTP ID or Password.(2)
+[2025-05-09 11:42:33.986] - root            - INFO     - FTP close!
+[2025-05-09 11:42:33.987] - root            - INFO     - Please check FTP ID or Password.(3)
+[2025-05-09 11:42:40.524] - root            - INFO     - FTP close!
+[2025-05-09 11:42:40.525] - root            - INFO     - Please check FTP ID or Password.(4)
+[2025-05-09 11:42:43.528] - root            - INFO     - Connection Failed !
+[2025-05-09 11:42:43.529] - filelock        - DEBUG    - Attempting to release lock 548547536256 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:42:43.530] - filelock        - DEBUG    - Lock 548547536256 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:42:51.621] - filelock        - DEBUG    - Attempting to acquire lock 548263069056 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:42:51.622] - filelock        - DEBUG    - Lock 548263069056 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:42:51.623] - root            - INFO     - file lock acquired !
+[2025-05-09 11:42:51.814] - root            - INFO     - Connection Successed !
+[2025-05-09 11:42:51.815] - root            - INFO     - Start, End : [2025-05-09 10:00:00, 2025-05-09 11:00:00)
+[2025-05-09 11:42:51.867] - filelock        - DEBUG    - Attempting to release lock 548263069056 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:42:51.867] - filelock        - DEBUG    - Lock 548263069056 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:45:39.397] - filelock        - DEBUG    - Attempting to acquire lock 548462215616 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:45:39.398] - filelock        - DEBUG    - Lock 548462215616 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:45:39.399] - root            - INFO     - file lock acquired !
+[2025-05-09 11:45:39.646] - root            - INFO     - Connection Successed !
+[2025-05-09 11:45:39.647] - root            - INFO     - Start, End : [2025-05-09 10:00:00, 2025-05-09 11:00:00)
+[2025-05-09 11:45:39.702] - filelock        - DEBUG    - Attempting to release lock 548462215616 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:45:39.703] - filelock        - DEBUG    - Lock 548462215616 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:47:36.044] - filelock        - DEBUG    - Attempting to acquire lock 547680604608 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:47:36.045] - filelock        - DEBUG    - Lock 547680604608 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:47:36.045] - root            - INFO     - file lock acquired !
+[2025-05-09 11:47:36.246] - root            - INFO     - Connection Successed !
+[2025-05-09 11:47:36.246] - root            - INFO     - Start, End : [2025-05-09 10:00:00, 2025-05-09 11:00:00)
+[2025-05-09 11:47:36.300] - filelock        - DEBUG    - Attempting to release lock 547680604608 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:47:36.301] - filelock        - DEBUG    - Lock 547680604608 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:53:34.266] - filelock        - DEBUG    - Attempting to acquire lock 547981566448 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:53:34.267] - filelock        - DEBUG    - Lock 547981566448 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:53:34.268] - root            - INFO     - file lock acquired !
+[2025-05-09 11:53:34.464] - root            - INFO     - Connection Successed !
+[2025-05-09 11:53:34.465] - root            - INFO     - Start, End : [2025-05-09 10:00:00, 2025-05-09 11:00:00)
+[2025-05-09 11:53:34.478] - filelock        - DEBUG    - Attempting to release lock 547981566448 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:53:34.478] - filelock        - DEBUG    - Lock 547981566448 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:53:48.966] - filelock        - DEBUG    - Attempting to acquire lock 547969065120 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:53:48.968] - filelock        - DEBUG    - Lock 547969065120 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:53:48.968] - root            - INFO     - file lock acquired !
+[2025-05-09 11:53:49.168] - root            - INFO     - Connection Successed !
+[2025-05-09 11:53:49.169] - root            - INFO     - Start, End : [2025-05-09 10:00:00, 2025-05-09 11:00:00)
+[2025-05-09 11:53:49.180] - filelock        - DEBUG    - Attempting to release lock 547969065120 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:53:49.181] - filelock        - DEBUG    - Lock 547969065120 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:54:08.016] - filelock        - DEBUG    - Attempting to acquire lock 548148506688 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:54:08.017] - filelock        - DEBUG    - Lock 548148506688 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:54:08.018] - root            - INFO     - file lock acquired !
+[2025-05-09 11:54:08.216] - root            - INFO     - Connection Successed !
+[2025-05-09 11:54:08.217] - root            - INFO     - Start, End : [2025-05-09 10:00:00, 2025-05-09 11:00:00)
+[2025-05-09 11:54:08.229] - filelock        - DEBUG    - Attempting to release lock 548148506688 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:54:08.229] - filelock        - DEBUG    - Lock 548148506688 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:55:56.641] - filelock        - DEBUG    - Attempting to acquire lock 547955761552 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:55:56.642] - filelock        - DEBUG    - Lock 547955761552 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:55:56.643] - root            - INFO     - file lock acquired !
+[2025-05-09 11:55:56.838] - root            - INFO     - Connection Successed !
+[2025-05-09 11:55:56.839] - root            - INFO     - Start, End : [2025-05-09 10:00:00, 2025-05-09 11:00:00)
+[2025-05-09 11:55:56.851] - filelock        - DEBUG    - Attempting to release lock 547955761552 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:55:56.851] - filelock        - DEBUG    - Lock 547955761552 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:57:08.662] - filelock        - DEBUG    - Attempting to acquire lock 547813896352 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:57:08.663] - filelock        - DEBUG    - Lock 547813896352 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:57:08.663] - root            - INFO     - file lock acquired !
+[2025-05-09 11:57:08.855] - root            - INFO     - Connection Successed !
+[2025-05-09 11:57:08.856] - root            - INFO     - Start, End : [2025-05-09 10:00:00, 2025-05-09 11:00:00)
+[2025-05-09 11:57:09.076] - root            - INFO     - Remote : /FTP/A3_JOSOOJE_TEST/, Local : /home/pi/sooje_practice/adc_log_20250509_114156.csv , Upload OK !
+[2025-05-09 11:57:09.341] - root            - INFO     - Remote : /FTP/A3_JOSOOJE_TEST/, Local : /home/pi/sooje_practice/adc_log_20250509_100000.csv , Upload OK !
+[2025-05-09 11:57:09.554] - root            - INFO     - Remote : /FTP/A3_JOSOOJE_TEST/, Local : /home/pi/sooje_practice/adc_log_20250509_110000.csv , Upload OK !
+[2025-05-09 11:57:09.557] - filelock        - DEBUG    - Attempting to release lock 547813896352 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 11:57:09.557] - filelock        - DEBUG    - Lock 547813896352 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 12:00:13.140] - filelock        - DEBUG    - Attempting to acquire lock 547912916944 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 12:00:13.141] - filelock        - DEBUG    - Lock 547912916944 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 12:00:13.142] - root            - INFO     - file lock acquired !
+[2025-05-09 12:00:13.159] - root            - INFO     - Connection Successed !
+[2025-05-09 12:00:13.159] - root            - INFO     - Start, End : [2025-05-09 11:00:00, 2025-05-09 12:00:00)
+[2025-05-09 12:00:13.203] - root            - INFO     - Remote : /FTP/A3_JOSOOJE_TEST/, Local : /home/pi/sooje_practice/adc_log_20250509_120000.csv , Upload OK !
+[2025-05-09 12:00:13.227] - root            - INFO     - Remote : /FTP/A3_JOSOOJE_TEST/, Local : /home/pi/sooje_practice/adc_log_20250509_114156.csv , Upload OK !
+[2025-05-09 12:00:13.253] - root            - INFO     - Remote : /FTP/A3_JOSOOJE_TEST/, Local : /home/pi/sooje_practice/adc_log_20250509_100000.csv , Upload OK !
+[2025-05-09 12:00:13.277] - root            - INFO     - Remote : /FTP/A3_JOSOOJE_TEST/, Local : /home/pi/sooje_practice/adc_log_20250509_110000.csv , Upload OK !
+[2025-05-09 12:00:13.280] - filelock        - DEBUG    - Attempting to release lock 547912916944 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 12:00:13.280] - filelock        - DEBUG    - Lock 547912916944 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 12:02:30.001] - filelock        - DEBUG    - Attempting to acquire lock 548572061648 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 12:02:30.002] - filelock        - DEBUG    - Lock 548572061648 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 12:02:30.002] - root            - INFO     - file lock acquired !
+[2025-05-09 12:02:30.018] - root            - INFO     - Connection Successed !
+[2025-05-09 12:02:30.019] - root            - INFO     - Start, End : [2025-05-09 11:00:00, 2025-05-09 12:00:00)
+[2025-05-09 12:02:30.055] - root            - INFO     - Remote : /FTP/A3_JOSOOJE_TEST/, Local : /home/pi/sooje_practice/adc_log_20250509_120127.csv , Upload OK !
+[2025-05-09 12:02:30.057] - filelock        - DEBUG    - Attempting to release lock 548572061648 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 12:02:30.057] - filelock        - DEBUG    - Lock 548572061648 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 12:04:16.770] - filelock        - DEBUG    - Attempting to acquire lock 547796049872 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 12:04:16.774] - filelock        - DEBUG    - Lock 547796049872 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 12:04:16.774] - root            - INFO     - file lock acquired !
+[2025-05-09 12:04:16.790] - root            - INFO     - Connection Successed !
+[2025-05-09 12:04:16.791] - root            - INFO     - Start, End : [2025-05-09 11:00:00, 2025-05-09 12:00:00)
+[2025-05-09 12:04:16.822] - root            - INFO     - Remote : /FTP/A3_JOSOOJE_TEST/, Local : /home/pi/sooje_practice/adc_log_20250509_120127.csv , Upload OK !
+[2025-05-09 12:04:16.824] - filelock        - DEBUG    - Attempting to release lock 547796049872 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 12:04:16.825] - filelock        - DEBUG    - Lock 547796049872 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 14:00:07.205] - filelock        - DEBUG    - Attempting to acquire lock 547990269904 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 14:00:07.207] - filelock        - DEBUG    - Lock 547990269904 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 14:00:07.207] - root            - INFO     - file lock acquired !
+[2025-05-09 14:00:07.227] - root            - INFO     - Connection Successed !
+[2025-05-09 14:00:07.227] - root            - INFO     - Start, End : [2025-05-09 13:00:00, 2025-05-09 14:00:00)
+[2025-05-09 14:00:07.269] - root            - INFO     - Remote : /FTP/A3_JOSOOJE_TEST/, Local : /home/pi/sooje_practice/adc_log_20250509_120127.csv , Upload OK !
+[2025-05-09 14:00:07.290] - root            - INFO     - Remote : /FTP/A3_JOSOOJE_TEST/, Local : /home/pi/sooje_practice/adc_log_20250509_140000.csv , Upload OK !
+[2025-05-09 14:00:07.317] - root            - INFO     - Remote : /FTP/A3_JOSOOJE_TEST/, Local : /home/pi/sooje_practice/adc_log_20250509_130000.csv , Upload OK !
+[2025-05-09 14:00:07.319] - filelock        - DEBUG    - Attempting to release lock 547990269904 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 14:00:07.320] - filelock        - DEBUG    - Lock 547990269904 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 14:05:06.164] - filelock        - DEBUG    - Attempting to acquire lock 548007849264 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 14:05:06.165] - filelock        - DEBUG    - Lock 548007849264 acquired on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 14:05:06.166] - root            - INFO     - file lock acquired !
+[2025-05-09 14:05:06.183] - root            - INFO     - Connection Successed !
+[2025-05-09 14:05:06.184] - root            - INFO     - Start, End : [2025-05-09 13:00:00, 2025-05-09 14:00:00)
+[2025-05-09 14:05:06.222] - root            - INFO     - Remote : /FTP/A3_JOSOOJE_TEST/, Local : /home/pi/sooje_practice/adc_log_20250509_140000.csv , Upload OK !
+[2025-05-09 14:05:06.246] - root            - INFO     - Remote : /FTP/A3_JOSOOJE_TEST/, Local : /home/pi/sooje_practice/adc_log_20250509_130000.csv , Upload OK !
+[2025-05-09 14:05:06.247] - filelock        - DEBUG    - Attempting to release lock 548007849264 on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
+[2025-05-09 14:05:06.248] - filelock        - DEBUG    - Lock 548007849264 released on /home/pi/sooje_practice/sample_FTP_Upload_SJ_1.py.lock
