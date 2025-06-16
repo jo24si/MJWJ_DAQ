@@ -155,7 +155,7 @@ def find_latest_log_file(search_dir):
     latest_mtime = 0
     for root, _, files in os.walk(search_dir):  # 디렉터리 전체 탐색
         for fname in files:
-            if KEYWORD in fname and os.path.splitext(fname)[1].lower() in TEXT_EXTENSIONS:
+            if SEARCH_KEYWORD in fname and os.path.splitext(fname)[1].lower() in TEXT_EXTENSIONS:
                 full_path = os.path.join(root, fname)
                 try:
                     mtime = os.path.getmtime(full_path)
