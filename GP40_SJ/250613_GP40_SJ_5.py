@@ -29,6 +29,9 @@ ISO_PWR_GPIO = 27
 INPUT_GPIO_PINS = [5, 17, 27, 22]  # 입력 핀
 OUTPUT_GPIO_PINS = [23, 24]        # 출력 핀 (제어 예정, 현재는 주석처리)
 
+LOG_LIFE_DAYS = 30                 # 로그 최대 저장 일수
+
+
 spi = spidev.SpiDev()
 #LOG 저장위치 지정
 log_dir = os.path.join(os.getcwd(), "DAQ_LOG")
@@ -97,6 +100,16 @@ def read_adc(ch):
     value = (result[2] << 4) + (result[3] >> 4)
     return value
 
+# 매일 00시 CSV파일 삭제 (메모리에 30일간 log만 저장하고 초과한 것을 삭제) 250616_수제
+def clean_old_logs(log_dir, days):
+    cutoff = time.time() - (days * 86400)
+    for fname in os.listdir(log_dir):
+        fpath = os.path.join(log_dir, fname)
+        if os.path.isfile(fpath) and fname.endswith(".csv"):
+            if os.path.getmtime(fpath) < cutoff:
+                os.remove(fpath)
+                print(f"[삭제됨] {fname}")
+
 # 실시간 CSV 기록 함수 (1000Hz 측정 → 1초마다 min/max/avg 저장)
 def log_adc_csv():
     now = datetime.now()
@@ -111,35 +124,57 @@ def log_adc_csv():
     try:
         while True:
             now = datetime.now()
-            if now.hour != last_hour: #매시 정각마다 새 파일로 만들기
+
+            # 자정에 log삭제 실행 (1달치 보존)
+            if now.hour == 0 and now.minute == 0 and now.second < 2:
+                clean_old_logs(log_dir, days=LOG_LIFE_DAYS)
+            #매시 정각마다 새 파일로 만들기
+            if now.hour != last_hour:
                 f.close()
                 csv_file = os.path.join(log_dir,now.strftime("DAQ_LOG_%Y%m%d_%H%M%S.csv"))
                 f = open(csv_file, 'a', newline='')
                 writer = csv.writer(f)
                 last_hour = now.hour
 
+            # 기준 시간 기록 (현재 시점의 고해상도 타이머)
             t0 = time.perf_counter()
+
+            # 약 1초 동안 반복 수행 (실제 loop duration ≈ 1초
             while time.perf_counter() - t0 < 1.0:
-                for ch in range(16):
+                for ch in range(16):  # 총 16개 채널에 대해 반복
                     if channel_ranges[ch] <= 9:
                         raw = read_adc(ch)
+
+                        # 정규화된 실측값 계산
+                        # (raw 값에서 오프셋을 빼고, 설정된 스케일로 환산 → 단위: V 또는 mA)
                         val = (raw - range_offsets[channel_ranges[ch]]) * range_scales[channel_ranges[ch]] / 1000
+
+                        # 해당 채널 버퍼에 저장 (나중에 min/max/avg 계산용)
                         buffers[ch].append(val)
                     else:
+                        # 설정이 없는 채널은 None으로 버퍼에 기록
                         buffers[ch].append(None)
-                time.sleep(0.001)
+                time.sleep(0.001)  # 샘플 간 간격 1ms → 약 1000Hz 수집 목표
 
+
+            # 현재 시각을 "년-월-일_시:분:초.밀리초" 형식의 문자열로 생성
+            # 예: "2025-06-16_00:00:01.123"
             timestamp = datetime.now().strftime("%Y-%m-%d_%H:%M:%S.%f")[:-3]
+
+            # 디지털 입력 핀들(GPIO 5,17,27,22 등)의 상태를 모두 읽어서 리스트로 저장 HIGH → 1, LOW → 0
             input_vals = [GPIO.input(pin) for pin in INPUT_GPIO_PINS]
             row = [timestamp] + input_vals
 
             for ch_buf in buffers:
+                # None이 아닌 실측값만 필터링 → 유효한 값만 남김
                 valid_values = [v for v in ch_buf if v is not None]
-                if valid_values:
+                
+                if valid_values:        # 유효한 값이 있는 경우 → 소수점 4자리까지 포맷팅하여 CSV에 추가
                     #row.append(f"{min(valid_values):.4f}")
                     row.append(f"{max(valid_values):.4f}")
                     #row.append(f"{sum(valid_values)/len(valid_values):.4f}")
-                else:
+
+                else:                    # 해당 채널에 수집된 값이 없다면 빈 값으로 대체
                     row += ["---", "---", "---"]
 
             # 출력 제어 로직 (현재 주석처리)
