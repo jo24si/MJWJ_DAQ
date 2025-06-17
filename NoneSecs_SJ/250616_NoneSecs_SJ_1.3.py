@@ -12,7 +12,9 @@
 # v0.9: "수제메롱" 포함 최신 텍스트 파일 자동 탐색 및 매초 루프 유지하도록 수정
 # v1.0: 종료 시 포트 반환 보장을 위한 try/finally 구조 도입 및 종료 시 KeyboardInterrupt 명확히 처리 / 주석 정리 + 설정값 정렬
 # v1.1: NONSECS 형식 포맷 전송 기능 추가, 16CH 데이터를 키-값으로 구성하여 메시지 포맷 가공
-# v1.2: ini 없을시 자동생성 기능 추가 _160616 수제
+# v1.2: ini 없을시 자동생성 기능 추가 _260616 수제
+# v1.3: ini 기능 추가 후 버그 수정 _260616 수제
+# v1.4: DAQ_svid, io_SVID, ADC_SVID 데이터 분리 _260617 수제
 
 import socket
 # 소켓 통신 모듈을 불러옵니다
@@ -32,17 +34,38 @@ def create_default_none_secs_ini(filename='NoneSecsConfig_SJ.ini'):
     config.optionxform = str
 
     config['GENERAL'] = {
-        'SEARCH_KEYWORD': '수제메롱',
-        'SEARCH_DIR': '/home/pi/gp40_logs',
+        'SEARCH_KEYWORD': 'LOG',
+        'SEARCH_DIR': '/home/pi/WDAQ_LOG',
         'FILENAME_EXTENSIONS': '.csv,.txt,.log'
     }
 
     config['DEVICE'] = {
-        'EQPID': 'A2ELA59A_CLNU_OZ01_NS02',
+        'EQPID': 'A0ABC01A_ABCD_AB01_NS02',
         'TRID': '3'
     }
-
-    config['SENSOR'] = {f'SVID_{i}': f'{10000+i}' for i in range(1, 17)}
+    config['SENSOR'] = {
+        'SVID_DAQ_1': '100000',
+        'SVID_IO_1': '100101',
+        'SVID_IO_2': '100102',
+        'SVID_IO_3': '100103',
+        'SVID_IO_4': '100104',
+        'SVID_ADC_1': '100001',
+        'SVID_ADC_2': '100002',
+        'SVID_ADC_3': '100003',
+        'SVID_ADC_4': '100004',
+        'SVID_ADC_5': '100005',
+        'SVID_ADC_6': '100006',
+        'SVID_ADC_7': '100007',
+        'SVID_ADC_8': '100008',
+        'SVID_ADC_9': '100009',
+        'SVID_ADC_10': '100010',
+        'SVID_ADC_11': '100011',
+        'SVID_ADC_12': '100012',
+        'SVID_ADC_13': '100013',
+        'SVID_ADC_14': '100014',
+        'SVID_ADC_15': '100015',
+        'SVID_ADC_16': '100016'        
+    }
 
     config['SERVER'] = {
         'LISTEN_IP': '0.0.0.0',
@@ -70,22 +93,29 @@ FILENAME_EXTENSIONS = config['GENERAL']['FILENAME_EXTENSIONS'].split(',')
 EQPID = config['DEVICE']['EQPID']
 TRID = int(config['DEVICE']['TRID'])
 
-SVID_1 = int(config['SENSOR']['SVID_1'])
-SVID_2 = int(config['SENSOR']['SVID_2'])
-SVID_3 = int(config['SENSOR']['SVID_3'])
-SVID_4 = int(config['SENSOR']['SVID_4'])
-SVID_5 = int(config['SENSOR']['SVID_5'])
-SVID_6 = int(config['SENSOR']['SVID_6'])
-SVID_7 = int(config['SENSOR']['SVID_7'])
-SVID_8 = int(config['SENSOR']['SVID_8'])
-SVID_9 = int(config['SENSOR']['SVID_9'])
-SVID_10 = int(config['SENSOR']['SVID_10'])
-SVID_11 = int(config['SENSOR']['SVID_11'])
-SVID_12 = int(config['SENSOR']['SVID_12'])
-SVID_13 = int(config['SENSOR']['SVID_13'])
-SVID_14 = int(config['SENSOR']['SVID_14'])
-SVID_15 = int(config['SENSOR']['SVID_15'])
-SVID_16 = int(config['SENSOR']['SVID_16'])
+SVID_DAQ_1 = int(config['SENSOR']['SVID_DAQ_1'])
+
+SVID_IO_1 = int(config['SENSOR']['SVID_IO_1'])
+SVID_IO_2 = int(config['SENSOR']['SVID_IO_2'])
+SVID_IO_3 = int(config['SENSOR']['SVID_IO_3'])
+SVID_IO_4 = int(config['SENSOR']['SVID_IO_4'])
+
+SVID_ADC_1 = int(config['SENSOR']['SVID_ADC_1'])
+SVID_ADC_2 = int(config['SENSOR']['SVID_ADC_2'])
+SVID_ADC_3 = int(config['SENSOR']['SVID_ADC_3'])
+SVID_ADC_4 = int(config['SENSOR']['SVID_ADC_4'])
+SVID_ADC_5 = int(config['SENSOR']['SVID_ADC_5'])
+SVID_ADC_6 = int(config['SENSOR']['SVID_ADC_6'])
+SVID_ADC_7 = int(config['SENSOR']['SVID_ADC_7'])
+SVID_ADC_8 = int(config['SENSOR']['SVID_ADC_8'])
+SVID_ADC_9 = int(config['SENSOR']['SVID_ADC_9'])
+SVID_ADC_10 = int(config['SENSOR']['SVID_ADC_10'])
+SVID_ADC_11 = int(config['SENSOR']['SVID_ADC_11'])
+SVID_ADC_12 = int(config['SENSOR']['SVID_ADC_12'])
+SVID_ADC_13 = int(config['SENSOR']['SVID_ADC_13'])
+SVID_ADC_14 = int(config['SENSOR']['SVID_ADC_14'])
+SVID_ADC_15 = int(config['SENSOR']['SVID_ADC_15'])
+SVID_ADC_16 = int(config['SENSOR']['SVID_ADC_16'])
 
 LISTEN_IP = config['SERVER']['LISTEN_IP']
 LISTEN_PORT = int(config['SERVER']['LISTEN_PORT'])
@@ -131,9 +161,14 @@ def convert_log_to_tooldata_format(log_line):
             return "[오류] 센서 값 부족"
 
         timestamp = parts[0].replace('_', ' ').replace('-', '/')  # 날짜 형식 변환
-        sensor_values = parts[1:17]  # 센서 값 16개 추출
-        svid_list = [SVID_1, SVID_2, SVID_3, SVID_4, SVID_5, SVID_6, SVID_7, SVID_8,
-                     SVID_9, SVID_10, SVID_11, SVID_12, SVID_13, SVID_14, SVID_15, SVID_16]
+        sensor_values = parts[1:22]  # 센서 값 22개 추출 (DAQ + IO + ADC)
+
+
+        svid_list = [SVID_DAQ_1,
+                    SVID_IO_1,SVID_IO_2,SVID_IO_3,SVID_IO_4,
+                    SVID_ADC_1,SVID_ADC_2,SVID_ADC_3,SVID_ADC_4,SVID_ADC_5,SVID_ADC_6,SVID_ADC_7,SVID_ADC_8,
+                    SVID_ADC_9,SVID_ADC_10,SVID_ADC_11,SVID_ADC_12,SVID_ADC_13,SVID_ADC_14,SVID_ADC_15,SVID_ADC_16
+]
 
         sensor_str = "^".join([f"{svid}={val}" for svid, val in zip(svid_list, sensor_values)])  # 센서값 문자열 결합
 
@@ -150,7 +185,7 @@ def convert_log_to_tooldata_format(log_line):
 
 # 가장 최근의 로그 파일 경로 찾기 함수
 def find_latest_log_file(search_dir):
-    """지정된 디렉토리에서 '수제메롱'이 포함된 최신 텍스트 파일 경로 반환"""
+    """지정된 디렉토리에서 'LOG' 포함된 최신 텍스트 파일 경로 반환"""
     latest_file = None
     latest_mtime = 0
     for root, _, files in os.walk(search_dir):  # 디렉터리 전체 탐색
